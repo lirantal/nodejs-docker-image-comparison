@@ -1,4 +1,8 @@
 {
+  "publishConfig": {
+    "provenance": true,
+    "access": "public"
+  },
   "name": "nodejs-docker-image-comparison",
   "version": "1.0.0",
   "description": "",
