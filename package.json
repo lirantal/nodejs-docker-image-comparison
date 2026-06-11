@@ -1,8 +1,4 @@
 {
-  "publishConfig": {
-    "provenance": true,
-    "access": "public"
-  },
   "name": "nodejs-docker-image-comparison",
   "version": "1.0.0",
   "description": "",
@@ -23,5 +19,9 @@
   "homepage": "https://github.com/lirantal/nodejs-docker-image-comparison#readme",
   "dependencies": {
     "fastify": "^4.5.2"
+  },
+  "publishConfig": {
+    "provenance": true,
+    "access": "public"
   }
 }
